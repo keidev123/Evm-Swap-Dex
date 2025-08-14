@@ -4,7 +4,7 @@ EVM-Dex Swap is a fully decentralized exchange (DEX) platform designed to suppor
 
 ## Contact
 
-If you have any question, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+If you have any question, contact here: Kei[Telegram](https://t.me/kei4650) | Kei[Twitter](https://x.com/kei_4650)
 
 
 
@@ -31,7 +31,7 @@ ices.
 
 
 ```bash
-git clone https://github.com/0xTan1319/EVM-dex-swap.git
+git clone https://github.com/keidev123/EVM-dex-swap.git
 cd EVM-dex-swap
 npm install
 ```
