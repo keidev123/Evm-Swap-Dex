@@ -4,7 +4,7 @@ EVM-Dex Swap is a fully decentralized exchange (DEX) platform designed to suppor
 
 ## Contact
 
-If you have any question, contact here: Kei[Telegram](https://t.me/kei4650) | Kei[Twitter](https://x.com/kei_4650)
+If you have any question, contact here: [Telegram](https://t.me/kei4650) | [Twitter](https://x.com/kei_4650)
 
 
 
